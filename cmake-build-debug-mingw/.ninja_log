@@ -1,0 +1,6 @@
+# ninja log v5
+3	290	6921148362326578	CMakeFiles/cglass_basic01.dir/main.cpp.obj	8997bdc46bd42782
+1	141	6921148405955596	build.ninja	335fd5300c0e07b0
+2	275	6921140397311219	CMakeFiles/cglass_basic01.dir/demo.cpp.obj	aa08ba403579c37b
+290	384	6921148363210645	cglass_basic01.exe	5b58ba5cd8b28be2
+3	262	6921145615671387	CMakeFiles/cglass_basic01.dir/cgrass01.cpp.obj	486246dbba788c2e

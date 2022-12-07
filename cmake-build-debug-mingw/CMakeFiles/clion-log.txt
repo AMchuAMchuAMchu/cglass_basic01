@@ -1,0 +1,4 @@
+D:\seldom\jetbrains\CLion-2021.3.4\CLion2021.3.4\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/seldom/jetbrains/CLion-2021.3.4/CLion2021.3.4/bin/ninja/win/ninja.exe -G Ninja D:\seldom\rd\Cgrass\cglass_basic01
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/seldom/rd/Cgrass/cglass_basic01/cmake-build-debug-mingw
